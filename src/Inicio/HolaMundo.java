@@ -6,6 +6,7 @@ public class HolaMundo {
 		
 		String saludo= "Hola a todos";
 		int numero= 1;
+		int numero2 = 3;
 	
 		System.out.println(saludo);
 		
