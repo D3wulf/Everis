@@ -6,7 +6,7 @@ public class HolaMundo {
 		
 		String saludo= "Hola a todos!";
 		
-		
+		int numero= 32;
 		
 		System.out.println(saludo);
 		
