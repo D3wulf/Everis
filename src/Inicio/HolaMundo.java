@@ -4,11 +4,11 @@ public class HolaMundo {
 	
 	public static void main(String[] args) {
 		
-		String saludo= "Hola a todos!";
+		String saludo= "Hola a todos! ";
 		
-		int numero= 32;
+		String despedida = "Adios!";
 		
-		System.out.println(saludo);
+		System.out.println(saludo + despedida);
 		
 		
 	}
